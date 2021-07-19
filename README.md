@@ -8,6 +8,6 @@ A Web Application used to transfer money between multiple users.<br>  </p>
 <b>Database</b> : MySQL<br></p>   
 
 <p>Created by Vanya Yadav, under internship for Sparks Foundation.
-#GRIPJuly</p>
+#GRIPJuly2021</p>
 
 <p> Please let me know if any changes or bugs in the code! </p>
